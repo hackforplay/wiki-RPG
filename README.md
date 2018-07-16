@@ -1,4 +1,3 @@
-# wiki-RPG
-RPGキットのwiki（情報が集まるところ）です。アセットの詳しい説明を見ることができます。
+# Deprecated
 
-[Wiki](https://github.com/hackforplay/wiki-RPG/wiki)
+See [https://scrapbox.io/hackforplay](https://scrapbox.io/hackforplay) instead.
